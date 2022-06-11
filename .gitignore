@@ -1,2 +1,4 @@
 # ignore following files and folders
 *.pyc
+log/*
+.vscode/*
